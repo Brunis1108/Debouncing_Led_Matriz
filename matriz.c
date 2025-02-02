@@ -131,7 +131,7 @@ void display_number(int num) {
         
         led_buffer[i] = 0x00000000; 
         if (numbers[num][i]) {
-            led_buffer[i] = 0x0000ff00;  // Define cor verde para os números
+            led_buffer[i] = 0x0000aa00;  // Define cor azul para os números
         }
 
     
