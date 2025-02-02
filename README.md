@@ -41,3 +41,7 @@ void display_number(int num);
 
 // Trata a interrupção dos botões e altera o número exibido
 void debounce(uint gpio, uint32_t events);
+```
+
+### Link do vídeo  
+https://drive.google.com/file/d/15mCGYMRIywgWSSMjvOfUraHNiwDOX66N/view?usp=drive_link
