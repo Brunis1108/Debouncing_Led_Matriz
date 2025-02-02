@@ -44,4 +44,4 @@ void debounce(uint gpio, uint32_t events);
 ```
 
 ### Link do vídeo  
-https://drive.google.com/file/d/15mCGYMRIywgWSSMjvOfUraHNiwDOX66N/view?usp=drive_link
+https://drive.google.com/file/d/1gU2e-aXjTTPz9apIHIDN8lHFspDosraZ/view?usp=drive_link
